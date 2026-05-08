@@ -86,17 +86,3 @@ telnet 127.0.0.1 8000
 Escribe cualquier texto y presiona Enter para enviar.
 
 ---
-
-## Subir a GitHub (opcional)
-
-```powershell
-cd "C:\Users\vican\OneDrive\Escritorio\Claude Code\proyecto-redes"
-git init
-git add .
-git commit -m "Proyecto redes: servidor TCP secuencial vs concurrente"
-git remote add origin https://github.com/TU_USUARIO/proyecto-redes.git
-git push -u origin main
-```
-
-Reemplaza `TU_USUARIO` con tu nombre de usuario de GitHub y actualiza la URL
-del repo en `REPORTE.md`.
