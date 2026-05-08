@@ -15,7 +15,7 @@ proyecto-redes/
 ├── fase2_servidor_concurrente.py  # Servidor con threading (thread-per-client)
 ├── cliente_prueba.py              # Cliente TCP de prueba
 ├── README.md                      # Este archivo
-├── REPORTE.md                     # Cuerpo del informe académico
+├── REPORTE.pdf                    # Informe académico
 └── evidencias/                    # Carpeta para capturas de pantalla
 ```
 
