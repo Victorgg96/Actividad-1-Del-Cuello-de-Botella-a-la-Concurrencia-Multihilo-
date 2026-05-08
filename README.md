@@ -87,23 +87,6 @@ Escribe cualquier texto y presiona Enter para enviar.
 
 ---
 
-## Exportar REPORTE.md a PDF
-
-**Opción 1 — Pandoc (recomendado):**
-
-```powershell
-pandoc REPORTE.md -o reporte.pdf
-```
-
-**Opción 2 — VS Code:**  
-Abre `REPORTE.md` → clic derecho → *Open Preview* → desde el preview imprime
-con `Ctrl+P` y elige "Guardar como PDF".
-
-**Opción 3 — Markdown to PDF (extensión VS Code):**  
-Instala la extensión *Markdown PDF* y usa el comando *Markdown PDF: Export (pdf)*.
-
----
-
 ## Subir a GitHub (opcional)
 
 ```powershell
